@@ -1,0 +1,21 @@
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+#error-message {
+  color: red;
+  font-weight: bold;
+}
+
+button {
+  margin-top: 5px;
+}
